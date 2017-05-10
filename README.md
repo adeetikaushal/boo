@@ -1,6 +1,6 @@
 # Boo
 
-The purpose of Boo is to provide a simple command-line tool for the OneOps developers and OneOps users to deploy,
+ The purpose of Boo is to provide a simple command-line tool for the OneOps developers and OneOps users to deploy,
 update, destroy and operate their OneOps assemblies.
 
 For the OneOps pack developers, it provides a fast and repeatable way to run tests against complex OneOps packs. For
